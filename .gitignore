@@ -1,0 +1,51 @@
+# Compiled class files
+target/
+
+# IDE-specific files
+.idea/
+
+# Compiled JAR files
+*.jar
+
+# Logs
+logs/
+
+# Gradle files
+gradle/
+build/
+
+# Spring Boot DevTools properties
+spring-boot-devtools.properties
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Maven files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.branch
+
+# Intellij
+*.iml
+*.ipr
+*.iws
+out/
+.idea_modules/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/.name
+.idea/compiler.xml
+.idea/.idea_modules/
+.idea/shelf/
+.idea/libraries/
+.idea/caches/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
