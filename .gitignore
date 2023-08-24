@@ -37,4 +37,4 @@ out/
 .vscode/
 
 # OpenAPI generated Code
-!**/src/main/gen
+/src/main/gen
