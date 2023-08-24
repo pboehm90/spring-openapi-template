@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="api.yml" type="SwaggerCodegen">
+    <option name="customTemplatesPath" value="" />
+    <option name="generateToPath" value="D:\Java\spring-openapi-template\src\main\gen" />
+    <option name="generationParameters">
+      <list />
+    </option>
+    <option name="generatorType" value="OPENAPI_GENERATOR_V6" />
+    <option name="jdkPath" value="C:\Program Files\JetBrains\IntelliJ IDEA 2023.2\jbr\bin\java.exe" />
+    <option name="language" value="spring" />
+    <option name="specificationPath" value="D:\Java\spring-openapi-template\src\main\resources\api.yml" />
+    <method v="2" />
+  </configuration>
+</component>
