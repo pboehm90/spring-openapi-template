@@ -1,51 +1,37 @@
-# Compiled class files
-target/
-
-# IDE-specific files
-.idea/
-
-# Compiled JAR files
-*.jar
-
-# Logs
-logs/
-
-# Gradle files
-gradle/
+HELP.md
+.gradle
 build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
 
-# Spring Boot DevTools properties
-spring-boot-devtools.properties
-
-# Eclipse files
+### STS ###
+.apt_generated
 .classpath
+.factorypath
 .project
-.settings/
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
 
-# Maven files
-target/
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.branch
-
-# Intellij
+### IntelliJ IDEA ###
+.idea
+*.iws
 *.iml
 *.ipr
-*.iws
 out/
-.idea_modules/
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/.name
-.idea/compiler.xml
-.idea/.idea_modules/
-.idea/shelf/
-.idea/libraries/
-.idea/caches/
+!**/src/main/**/out/
+!**/src/test/**/out/
 
-# Log files
-*.log
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
 
-# OS-specific files
-.DS_Store
-Thumbs.db
+### VS Code ###
+.vscode/
